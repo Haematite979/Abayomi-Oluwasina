@@ -377,3 +377,16 @@ p{
 .new{
   text-align: center;
 }
+@media only screen and (max-width: 375px ) {
+  .transparent-card{
+    width: 80vw;
+    padding-bottom: 10px;
+    padding-right: 4px;
+  }
+  .jobcard{
+    margin: auto;
+    font-size: 13px;
+    width: 93vw;
+  }
+}
+
